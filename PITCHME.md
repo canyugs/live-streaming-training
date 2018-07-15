@@ -1,13 +1,9 @@
-# 直播教育訓練
-
-## Part 1
-
----
-
-前言
+# HI
+### Dynamite Deals - @color[#DC143C](Short Fuses) Included!
 
 ---
-# @size[3.5em](目的) 
+
+# @size[3.5em](目的)
 
 ---
 
