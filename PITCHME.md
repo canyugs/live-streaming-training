@@ -124,11 +124,10 @@
 
 ## 我們在 COSCUP 會做這些事
 
----
+---?image=(assets/img/conan.jpg&position=left&size=55% 100%
 
 ## 這屆的目標只有一個
 ### (就跟真相一樣)
----?image=assets/img/conan.jpg&position=left&size=55% 100%
 
 ---
 
