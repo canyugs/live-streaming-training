@@ -128,6 +128,7 @@
 
 ## 這屆的目標只有一個
 ### (就跟真相一樣)
+---?image=assets/img/conan.jpg&position=left&size=55% 100%
 
 ---
 
