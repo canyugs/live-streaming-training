@@ -128,14 +128,16 @@
 
 ## 這屆的目標只有一個
 ### (就跟真相一樣)
+![真相只有一個](assets/img/conan.jpg)
 
 ---
 
-# 把議程的內容穩穩的記錄下來
+# 把議程的內容`穩穩的`記錄下來
 
 ---
 
 ## 聽起來很籠統?
+
 
 ---
 ## 其實從直播來看
@@ -212,7 +214,8 @@
 
 ### 再來
 @size[2.5em](OBS)
-### Open Broadcase Studio
+##### Open Broadcase Studio
+![OBSDemoApp](assets/img/OBSDemoApp.jpg)
 
 ---
 ## 基本上有這些
