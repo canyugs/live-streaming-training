@@ -245,7 +245,7 @@
 
 ---?image=assets/img/orange box portal.jpg
 ### @color[white](傳送門)
-[https://obsproject.com/](https://obsproject.com/)
+[OBS官網](https://obsproject.com/)
 
 ---
 ## 教學影片蠻多的
@@ -286,7 +286,7 @@
 ---
 ## OBS 的全名是什麼?
 ---
-## 直播簡單分哪三點?
+## 直播簡單分哪三點?
 ---
 ## 今年 COSCUP 是第幾屆?
 ---
@@ -331,7 +331,7 @@
 
 ---
 
-## 呼~ 好像告個段亂了
+## 呼~ 好像告個段落了
 
 ---
 
