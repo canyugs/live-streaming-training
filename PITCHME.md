@@ -207,8 +207,12 @@
         - 攝影機縮放
 ---
 
-## 當你搞定上面
-### 接下來就換整合面的軟體了
+## 畫面的來源是很重要的
+### 往往有很多細節需要注意
+
+---
+
+## 因為沒了畫面後面也不用玩了
 
 ---
 
@@ -240,7 +244,7 @@
 ## 下載試試
 
 ---?image=assets/img/orange box portal.jpg
-#### 傳送門
+### @color[white](傳送門)
 [https://obsproject.com/](https://obsproject.com/)
 
 ---
