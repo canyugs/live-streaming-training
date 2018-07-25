@@ -101,34 +101,75 @@ Focus
 ## 輸入
 ![](assets/imgs/sony-pxwx160.jpg)
 
----?image=/assets/imgs/obs-web-main.png
+---
+## OBS
+![](/assets/imgs/obs-main-scense-switch-1.png)
+---
 
+## 執行 OBS
+![](assets/imgs/obs-main-windows.png)
 
 ---
 
-執行 OBS
+## 匯入場景群組, 固定場景, 來源
+![](/assets/imgs/obs-group-input.png)
 
-匯入場景群組, 固定場景, 來源
+---
 
-匯入設定檔, 場景及來源的調整, 一般設定
+## 匯入設定檔, 場景及來源的調整, 一般設定
+![](/assets/imgs/obs-profile-input.png)
 
-設定影像, 設定音效, 確認排版位置
+---
+
+## 左邊為準備畫面
+## 右邊實際錄製畫面
+![](assets/imgs/obs-main-scense-switch-1.png)
+
+---
+
+## 來源是從這些類別加入的
+![](/assets/imgs/obs-main-source.png)
+
+---
+
+## 來源的畫面可以調整大小, 不論是選單內的設定
+## 或是自己拉大小都可
+![](/assets/imgs/obs-main-source-transform.png)
+
+---
+## 設定影像, 設定音效, 確認排版位置
+![](/assets/imgs/obs-main-source.png)
+
+---
+
+## 依據上次的經驗(多太亂), 感覺這次只需要 2 種
+* 錄影場景
+* 休息場景
+
+---
 
 確認開始時間, 提早開始錄製
-
-開始錄製
-開始串流
-
-
+## 5分鐘
 
 ---
 
-還有什麼可以做呢？
+## 開始錄製
+## 開始串流(視場地而定)
+![](/assets/imgs/obs-main-takebreak.png)
 
-# 時間註記
-# 即時字幕
-# 遠端控制 OBS
+---
 
+## 
+
+---
+
+## 還有什麼可以做呢？
+@ul
+* 時間註記
+* 即時字幕
+* 遠端控制 OBS
+* ...各種外掛
+@ulend
 ---
 ## 輸出
-一張圖
+![](assets/imgs/youtube-livesteaming-start.png)
