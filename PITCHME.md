@@ -86,7 +86,7 @@
 
 ---
 ## 設定影像, 設定音效, 確認排版位置
-![](/assets/imgs/obs-main-source.png)
+![](/assets/imgs/obs-main-scenes-layout.png)
 
 ---
 
