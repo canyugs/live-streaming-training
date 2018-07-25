@@ -100,10 +100,11 @@ Focus
 
 ## 輸入
 一張圖
----
+
+---?image=/assets/imgs/obs-web-main.png
 
 ## OBS 操作
-一張圖
+
 ---
 
 執行 OBS

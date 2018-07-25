@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "key": "57tt-23qc-dxef-1q21",
+        "server": "rtmp://a.rtmp.youtube.com/live2",
+        "service": "YouTube / YouTube Gaming"
+    },
+    "type": "rtmp_common"
+}
