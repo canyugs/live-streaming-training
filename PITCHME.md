@@ -99,11 +99,10 @@ Focus
 ---
 
 ## 輸入
-一張圖
+![](assets/imgs/sony-pxwx160.jpg)
 
 ---?image=/assets/imgs/obs-web-main.png
 
-## OBS 操作
 
 ---
 
