@@ -28,25 +28,102 @@
 ## 這次就來更深的看下去
 
 ---
+## 每間教室要有以下的設備
+* 錄影機
+* 腳架
+* 收音麥克風+麥克風腳架
+* VGA分割器
+* VGA to SDI 轉接器
+* PC (含鍵盤、滑鼠、螢幕及螢幕線)
+* SDI(1-2條)、VGA線材(2-3條)
+---
+
+
 ## 輸入
 ![](assets/imgs/input.png)
 
 ---
 
 ## 架構圖一張
-![](https://i.imgur.com/WOd93YB.png)
+![](https://i.imgur.com/QYUU868.png)
+
 
 ---
 
-## 攝影機操作,還沒貼需要的手冊內容
+## 攝影機操作 (以Z150為例, 每台的按鍵位置可能不同, 但操作都是類似的)
+![](https://i.imgur.com/OkEV2UD.png)
+
+---
+
+![](https://i.imgur.com/F4kUklh.png)
+
+---
+
+![](https://i.imgur.com/RUVMAjz.png)
+
+---
+
+![](https://i.imgur.com/4ToiUxA.png)
+
+---
+
+![](https://i.imgur.com/Z5snvNI.png)
+
+---
+
+![](https://i.imgur.com/bzqi6EY.png)
+
+---
+
+![](https://i.imgur.com/lTU2EHX.png)
+
+---
+
+![](https://i.imgur.com/02O7mAn.png)
+
+---
 
 ## 腳架
+Sachtler
+![](https://i.imgur.com/y8acMC4.png)
+![](https://i.imgur.com/dECCCsU.png)
+![](https://i.imgur.com/eoQQOcd.png)
+
+---
+
+Libec
+![](https://i.imgur.com/Shu77Oo.png)
+
+---
+
 ## 擷取卡設定(這一定要做, 不做OBS抓不到訊號)
+
+* DeckLink 擷取卡必須把Video input 下面的SDI Enable (預設是停用)
+![](https://i.imgur.com/DhRZ9r0.png)
+
+---
 ## 線材連接
 
 ---
+
+* 錄影機上面會接兩條線 (假電池[直接接AC] 圖內細線, SDI out [圖內圓的粗線])
+![](https://i.imgur.com/ozaEY4w.png)
+
+---
+
+* VGA 1轉2
+![](https://i.imgur.com/wi4Vf1D.png)
+
+---
+
+* PC 後端接法 (DVI-I 輸入 + SDI 輸入) 或 (SDI 兩軌輸入)
+![](https://i.imgur.com/VHcBzaW.png)
+
+---
+
 ## OBS
 ![](/assets/imgs/obs.png)
+
 ---
 
 ## 執行 OBS
@@ -152,20 +229,6 @@
 * Day1(08/11) 第一天 執行任務
 * Day2(08/12) 第二天 執行任務, 器材回收
 @ulend
-
----
-
-## 本次使用的設備
-### 攝影機
-
-* Sony PXW-X160
-* Sony PXW-Z150
-* Sony PXW-Z90
-* Sony PXW-X70
-
-## 收音器材
-## 腳架
-## 線材
 
 ---
 
