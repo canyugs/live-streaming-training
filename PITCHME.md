@@ -84,14 +84,20 @@
 ---
 
 ## 腳架
-Sachtler
+### Sachtler
 ![](https://i.imgur.com/y8acMC4.png)
+
+---
+
 ![](https://i.imgur.com/dECCCsU.png)
+
+---
+
 ![](https://i.imgur.com/eoQQOcd.png)
 
 ---
 
-Libec
+### Libec
 ![](https://i.imgur.com/Shu77Oo.png)
 
 ---
